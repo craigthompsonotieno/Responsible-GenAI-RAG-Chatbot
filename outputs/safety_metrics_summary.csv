@@ -1,0 +1,6 @@
+metric,value
+total_prompts,20.0
+safety_accuracy_percent,95.0
+human_review_rate_percent,60.0
+average_retrieval_score,0.116
+api_success_rate_percent,100.0

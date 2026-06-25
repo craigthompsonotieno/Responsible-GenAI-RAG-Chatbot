@@ -1,0 +1,15 @@
+question,model_provider,model_name,safety_label,retrieval_score,retrieved_context,answer
+I feel stressed because of exams. What can I do?,Groq,llama-3.1-8b-instant,needs_support,0.222,"Support seeking:
+Asking for help is a sign of strength. A young person can speak with a trusted adult, teacher, counselor, parent, guardian, community worker, or local support service when facing difficult situations.
+
+Confidence at school:
+Confidence grows through practice, preparation, and support. A student can build confidence by setting small goals, preparing for class, asking questions, joining positive peer groups, and speaking to a trusted teacher or mentor.","It's totally normal to feel stressed about exams. Asking for help is a sign of strength, so don't be afraid to talk to someone about how you're feeling. You can speak with a trusted teacher, a parent, or a school counselor about your stress and get some support.
+
+In the meantime, here are a few things that might help:
+
+- Break down your studying into smaller, manageable chunks. This can make it feel less overwhelming.
+- Practice past exams or test questions to get a feel for what to expect.
+- Join a study group with friends or classmates to stay motivated and get help from each other.
+- Make sure you're getting enough sleep, eating well, and taking breaks to relax.
+
+Remember, you're not alone, and it's okay to ask for help."
