@@ -203,4 +203,4 @@ No real personal data from adolescents was used. The evaluation prompts were cre
 
 * Portfolio: https://craigthompsonotieno.github.io/portfolio/
 * LinkedIn: https://www.linkedin.com/in/craigthompsonotieno/
-* GitHub: https://github.com/craigthompsonotieno
+
