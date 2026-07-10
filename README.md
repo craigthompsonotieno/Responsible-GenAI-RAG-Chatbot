@@ -203,4 +203,55 @@ No real personal data from adolescents was used. The evaluation prompts were cre
 
 * Portfolio: https://craigthompsonotieno.github.io/portfolio/
 * LinkedIn: https://www.linkedin.com/in/craigthompsonotieno/
+## License and Responsible Use
+
+### Source code
+
+The original Python source code, analytical workflow, evaluation scripts, Streamlit dashboard and project documentation created for this repository are licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2026 Craig Thompson Omondi Otieno.
+
+### Third-party services and software
+
+The MIT License applies only to the original material created for this repository. It does not grant rights over third-party services, models, software libraries or other external components used by the project, including:
+
+* Groq API services
+* Llama models and associated model weights
+* Streamlit
+* Scikit-learn
+* Pandas
+* Other Python packages listed in `requirements.txt`
+
+These components remain subject to their respective licences, acceptable-use policies and terms of service. Users are responsible for reviewing and complying with those terms.
+
+### Knowledge base and evaluation data
+
+The included knowledge-base notes, test prompts and evaluation outputs are provided for educational, research and portfolio-demonstration purposes.
+
+The evaluation prompts are synthetic and do not contain real personal data from adolescents. Permission to use the project code does not permit users to introduce, expose or process confidential personal information without appropriate safeguards, consent and legal authority.
+
+Any third-party information added to the knowledge base remains subject to the copyright, attribution and usage requirements of its original source.
+
+### Responsible-use notice
+
+This repository is a prototype demonstrating responsible retrieval-augmented generation, safety classification and human-review routing. It is not a clinically validated system and must not be treated as a substitute for professional safeguarding, counselling, medical, legal or emergency support.
+
+Users adapting or deploying the project are responsible for:
+
+* Testing the system for their intended context
+* Protecting personal and sensitive information
+* Implementing appropriate human oversight
+* Conducting safeguarding and risk assessments
+* Complying with applicable laws and platform policies
+* Clearly communicating the system's limitations
+* Preventing misleading claims about accuracy or professional validation
+
+The author does not guarantee that the safety classifier, retrieval process or generated responses will identify every harmful, sensitive or incorrect interaction.
+
+### Disclaimer
+
+This is an independent educational and portfolio project. References to Groq, Meta, Llama, Streamlit or other organisations and technologies do not imply sponsorship, affiliation or endorsement.
+
+The findings, outputs and interpretations produced by this system are those of the project author or the person operating a modified version of the software.
+
 
